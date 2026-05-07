@@ -30,7 +30,7 @@ font-size: 25px; /* Tamaño de fuente del texto del encabezado */
 
 /* Establece el fondo transparente para el menú */
 nav {
-background-color: rgba(255, 255, 255, 0);
+background-color: rgba(225, 213, 213, 0);
 padding: 20px;
 position: fixed; /* Posiciona el menú en la parte superior de la página */
 top: 0;
@@ -56,13 +56,13 @@ margin-right: 30px; /* Espacio entre elementos del menú */
 
 a {
 text-decoration: none;
-color: #290b0b; /* Color del texto del menú */
+color: #ffffff; /* Color del texto del menú */
 font-weight: bold;
 }
 
 /* Cambia el color del enlace cuando se pasa el mouse por encima */
 a:hover {
-color: #dfdedd; /* Cambia el color al pasar el mouse por encima */
+color: #747474; /* Cambia el color al pasar el mouse por encima */
 }
 
 /*CONFIGURACION DEL BODY*/
@@ -87,10 +87,10 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
-background-color: rgb(5,43,150); /* Cambia el color de fondo a azul */
+background-color: rgb(75, 7, 7); /* Cambia el color de fondo a azul */
 padding: 10rem;
 color: #fffdfd;
-color: #3b0e0e; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #d5c6c6; /* Color del texto en el encabezado para asegurar la legibilidad */
 text-align: center; /* Alinea el contenido al centro del encabezado */
 /* Espacio de relleno interno para el contenido */
 
